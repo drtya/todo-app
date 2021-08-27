@@ -1,0 +1,24 @@
+@font-face {
+    font-family: 'MagistralC';
+    src: url('MagistralC.eot');
+    src: local('PT Magistral Cyrillic'), local('MagistralC'),
+        url('MagistralC.eot?#iefix') format('embedded-opentype'),
+        url('MagistralC.woff2') format('woff2'),
+        url('MagistralC.woff') format('woff'),
+        url('MagistralC.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'MagistralC';
+    src: url('MagistralC-Bold.eot');
+    src: local('PT Magistral Bold Cyrillic'), local('MagistralC-Bold'),
+        url('MagistralC-Bold.eot?#iefix') format('embedded-opentype'),
+        url('MagistralC-Bold.woff2') format('woff2'),
+        url('MagistralC-Bold.woff') format('woff'),
+        url('MagistralC-Bold.ttf') format('truetype');
+    font-weight: bold;
+    font-style: normal;
+}
+
